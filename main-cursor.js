@@ -1,17 +1,17 @@
 $(document)
-  .mousemove(function(c) {
+  .mousemove(function(cursor) {
     $('.cursor')
       .eq(0)
       .css({
-        left: c.pageX,
-        top: c.pageY
+        left: cursor.pageX,
+        top: cursor.pageY
       });
     setTimeout(function() {
       $('.cursor')
         .eq(1)
         .css({
-          left: c.pageX,
-          top: c.pageY
+          left: cursor.pageX,
+          top: cursor.pageY
         });
     }, 100);
   })
