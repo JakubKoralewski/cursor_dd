@@ -7,6 +7,6 @@
 
 - [x] Update Git Repo :poop:
 - [x] Add to Coming Soon site 
-- [ ] Celebration with friends :pensive: 
+- [x] Celebration with friends :tada: :relaxed:
 
 ### :clap: :sunglasses: :clap: :sunglasses: :clap: :sunglasses: 
